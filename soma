@@ -1,0 +1,5 @@
+x= input("Valor 1")
+y= input("Valor 2")
+
+Resultado= (Hello Word)
+print("Resultado")
